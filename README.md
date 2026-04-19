@@ -75,6 +75,10 @@ prg6
 
 factorial output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/factorial.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/main/factorial1.png
 
-6b output link :https://github.com/poojarysampath8-del/Sampath058/blob/prg6b/6b1.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/prg6b/6b2.png
+prg6b output link :https://github.com/poojarysampath8-del/Sampath058/blob/prg6b/6b1.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/prg6b/6b2.png
 
-6c output ink :https://github.com/poojarysampath8-del/Sampath058/blob/main/6c1.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/main/6c2.png
+prg6c output ink :https://github.com/poojarysampath8-del/Sampath058/blob/main/6c1.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/main/6c2.png
+
+prg7
+
+prg7a output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/7a1.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/main/7a2.png
