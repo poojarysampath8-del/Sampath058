@@ -7,3 +7,18 @@ p1 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1
 p2 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1p2.png
 
 p3 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1p3.png
+
+p4 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1p4.png
+
+p5 output link :
+
+p6 output link :
+
+p7 output link :
+
+p8 output link :
+
+p9 output link :
+
+p10 output link :
+
