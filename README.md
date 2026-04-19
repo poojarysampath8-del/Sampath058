@@ -18,7 +18,7 @@ p7 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1
 
 p8 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1p8.png
 
-p9 output link :
+p9 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1p9.png
 
 p10 output link :
 
