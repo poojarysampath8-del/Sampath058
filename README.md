@@ -82,3 +82,5 @@ prg6c output ink :https://github.com/poojarysampath8-del/Sampath058/blob/main/6c
 prg7
 
 prg7a output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/7a1.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/main/7a2.png
+
+prg7b output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/7b1.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/main/7b2.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/main/7b3.png
