@@ -39,16 +39,16 @@ p2 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3
 
 p3 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/prg3p3.png
 
-p4 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/p4.java
+p4 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/prg3p4.png
 
-p5 output link :
+p5 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/prg3p5.png
 
-p6 output link :
+p6 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/prg3p6.png
 
-p7 output link :
+p7 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/prg3p7.png
 
-p8 output link :
+p8 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/prg3p8.png
 
-p9 output link :
+p9 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/prg3p9.png
 
-p10 output link :
+p10 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/prg3p10.png
