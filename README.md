@@ -10,7 +10,7 @@ p3 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1
 
 p4 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1p4.png
 
-p5 output link :
+p5 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1p5.png
 
 p6 output link :
 
