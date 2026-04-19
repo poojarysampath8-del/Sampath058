@@ -28,3 +28,27 @@ prg2
 performancetest output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg2/performancetest.png
 
 stringhandlingdemo output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg2/stringhandlingdemo.png
+
+prg3
+
+stringhandlingdemo output link :
+
+p1 output link :
+
+p2 output link :
+
+p3 output link :
+
+p4 output link :
+
+p5 output link :
+
+p6 output link :
+
+p7 output link :
+
+p8 output link :
+
+p9 output link :
+
+p10 output link :
