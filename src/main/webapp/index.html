@@ -1,0 +1,34 @@
+<!-- Construct a cookie management program using JSP to get the fields 
+name, domain and max expiry age (in sec) and press the button add cookie 
+for displaying the set cookie information. Then go to show the active cookie list -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cookie Management</title>
+<style>
+.container {
+margin: 20px;
+padding: 20px;
+width: 300px;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+<h2>Add Cookie</h2>
+
+<form action="addCookie.jsp" method="post">
+Name: <input type="text" name="name" required><br><br>
+Domain: <input type="text" name="domain" required><br><br>
+Max Expiry (sec): <input type="number" name="age" required><br><br>
+
+<input type="submit" value="Add Cookie">
+</form>
+
+</div>
+</body>
+</html>
