@@ -39,7 +39,7 @@ p2 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3
 
 p3 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/prg3p3.png
 
-p4 output link :
+p4 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/p4.java
 
 p5 output link :
 
