@@ -55,8 +55,8 @@ p10 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg
 
 prg4
 
-swingexample output link :
+swingexample output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg4/swingexample.png
 
-buttonexample output link :
+buttonexample output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg4/buttonexample.png
 
-imagebuttonexample output link :
+imagebuttonexample output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg4/imagebuttonexample.png
