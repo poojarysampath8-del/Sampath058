@@ -97,3 +97,7 @@ prg9
 prg9a output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/9a.png
 
 prg9b output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/9b1.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/main/9b2.png
+
+prg10
+
+prg10 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/10a1.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/main/10a2.png
