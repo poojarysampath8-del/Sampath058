@@ -70,3 +70,7 @@ jlistexample output link :https://github.com/poojarysampath8-del/Sampath058/blob
 tabbedpane output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg5/tabbedpaneexample.png
 
 tabbedpane1 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg5/tabbedpaneexample1.png
+
+prg6
+
+factorial output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/factorial.png  &  
