@@ -20,5 +20,5 @@ p8 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1
 
 p9 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1p9.png
 
-p10 output link :
+p10 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg1p10.png
 
