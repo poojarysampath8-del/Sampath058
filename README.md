@@ -73,4 +73,4 @@ tabbedpane1 output link :https://github.com/poojarysampath8-del/Sampath058/blob/
 
 prg6
 
-factorial output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/factorial.png  &  
+factorial output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/factorial.png  &  https://github.com/poojarysampath8-del/Sampath058/blob/main/factorial1.png
