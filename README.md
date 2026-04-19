@@ -33,7 +33,7 @@ prg3
 
 stringhandlingdemo output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/stringhandlingdemo.png
 
-p1 output link :
+p1 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg3/p01.java
 
 p2 output link :
 
