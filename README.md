@@ -60,3 +60,13 @@ swingexample output link :https://github.com/poojarysampath8-del/Sampath058/blob
 buttonexample output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg4/buttonexample.png
 
 imagebuttonexample output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg4/imagebuttonexample.png
+
+prg5
+
+jlistcapitalexample output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg5/jlistcapitalexample.png
+
+jlistexample output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg5/jlistexample.png
+
+tabbedpane output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg5/tabbedpaneexample.png
+
+tabbedpane1 output link :https://github.com/poojarysampath8-del/Sampath058/blob/main/prg5/tabbedpaneexample1.png
